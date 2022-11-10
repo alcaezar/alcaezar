@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @alcaezar, or Alex xd
+- 👀 I love programming in Python, JS, PHP, DB and Web Development
+- 🌱 I’m currently learning Rust and TypeScript UwU
+- 💞️ I seek to collaborate on fun projects that challenge me
+- 📫 You can contact me by Whatsapp +54 9 11 2171 6228 or email alexiacoppola48@gmail.com :D
